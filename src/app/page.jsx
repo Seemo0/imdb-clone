@@ -1,6 +1,6 @@
 export const dynamic = "force-dynamic";
 
-import Resaults from "@/components/Resaults";
+import Results from "@/components/Results";
 
 const API_KEY = process.env.API_KEY;
 
@@ -24,7 +24,7 @@ export default async function Home({ searchParams }) {
 
   return (
     <div>
-      <Resaults results={results} />
+      <Results results={results} />
     </div>
   );
 }
