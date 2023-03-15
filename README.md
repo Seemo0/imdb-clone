@@ -2,9 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First,
-
-create an account in [The moviedb web site](https://api.themoviedb.org) and set your API_KEY in a .env file
+First, create an account in [The moviedb web site](https://api.themoviedb.org) and set your API_KEY in a .env file
 
 Install the dependencies and run the development server:
 
