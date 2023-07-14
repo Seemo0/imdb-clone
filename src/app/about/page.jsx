@@ -17,8 +17,6 @@ export default function About() {
         actor, genre, or release date, making it easy to find the perfect movie
         for any occasion.
       </p>
-
-      
     </div>
   );
 }
